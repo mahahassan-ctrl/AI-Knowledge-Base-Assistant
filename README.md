@@ -76,7 +76,9 @@ Streamlit (optional) – web UI for chat interface
 
 
 
-
-how to answer questions
-
-how to generate text
+How It Works
+PDFs are loaded and split into smaller chunks.
+Text is converted into embeddings using OpenAI.
+A vector database stores the embeddings.
+Users query the documents through the Streamlit UI.
+The system retrieves relevant chunks and generates answers.
