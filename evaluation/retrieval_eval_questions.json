@@ -1,0 +1,412 @@
+{
+  "title": "AI Knowledge Base Assistant - Retrieval Evaluation Set",
+  "version": 1,
+  "notes": [
+    "Exactly 40 answerable questions derived from the supplied PDF text.",
+    "Page numbers are physical PDF page numbers, 1-based.",
+    "Relevant source pages are labels for retrieval evaluation; verify them against actual chunk metadata before running benchmarks.",
+    "The set is a starter benchmark and has not yet been executed against MiniLM or MPNet."
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "question": "How many hours per week are employees expected to work?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q02",
+      "question": "What are the standard working hours from Monday through Friday?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q03",
+      "question": "During what time range may flexible working hours be permitted with manager approval?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q04",
+      "question": "Who must approve overtime in advance?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q05",
+      "question": "How many days per week may employees work remotely?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q06",
+      "question": "What secure connection must employees use to access internal resources remotely?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q07",
+      "question": "How many paid vacation days are employees entitled to each year?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q08",
+      "question": "How far in advance must vacation requests be submitted?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "Q09",
+      "question": "Within how many hours must sick leave be reported?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q10",
+      "question": "When may a medical certificate be required for an absence?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q11",
+      "question": "Who must be notified of a suspected data breach or security incident?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q12",
+      "question": "What are employees prohibited from doing with security features such as antivirus software and firewalls?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q13",
+      "question": "How often must employees update their passwords?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q14",
+      "question": "When must multi-factor authentication be enabled?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q15",
+      "question": "How often must employees complete security awareness training?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q16",
+      "question": "What consequences may result from violations of company policies?",
+      "relevant_pages": [
+        {
+          "source": "Enterprise HR and IT Policy Document.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q17",
+      "question": "What is the stated purpose of the employee handbook?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "Q18",
+      "question": "How can an at-will employment relationship be changed according to the handbook?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "Q19",
+      "question": "What should a qualified employee do to request a reasonable accommodation?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "Q20",
+      "question": "What should an employee do if they experience or witness workplace harassment or discrimination?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "Q21",
+      "question": "What does the open-door policy encourage employees to do?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "Q22",
+      "question": "What are employees expected to do when using company computers and software?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "Q23",
+      "question": "What should an employee make clear when posting online about work-related subjects?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "Q24",
+      "question": "Who may access company property and electronic files under the handbook's privacy policy?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "Q25",
+      "question": "How are non-exempt employees compensated for hours worked over 40 in a workweek?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "Q26",
+      "question": "What should an employee do if they will be late or absent from work?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "Q27",
+      "question": "What are the general rules for requesting vacation time in the handbook?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "Q28",
+      "question": "How many workweeks of FMLA leave may generally be available in a 12-month period, excluding military caregiver leave?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "Q29",
+      "question": "How much advance notice should employees give for foreseeable FMLA leave?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "Q30",
+      "question": "What should employees do immediately after a workplace accident or injury?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "Q31",
+      "question": "What should employees do when a fire alarm sounds?",
+      "relevant_pages": [
+        {
+          "source": "employee-handbook-01.pdf",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "Q32",
+      "question": "What kinds of information are considered personal data under the security policy?",
+      "relevant_pages": [
+        {
+          "source": "security-policy-03.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q33",
+      "question": "How should paper files containing personal data be stored when authorised staff are not present?",
+      "relevant_pages": [
+        {
+          "source": "security-policy-03.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q34",
+      "question": "What should staff do with unattended computers?",
+      "relevant_pages": [
+        {
+          "source": "security-policy-03.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "Q35",
+      "question": "Why should staff avoid forwarding emails containing personal data to internet email accounts?",
+      "relevant_pages": [
+        {
+          "source": "security-policy-03.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q36",
+      "question": "Under what condition may personal data be stored on laptops, and what protection is required?",
+      "relevant_pages": [
+        {
+          "source": "security-policy-03.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q37",
+      "question": "On what basis should personal data be shared for care or treatment?",
+      "relevant_pages": [
+        {
+          "source": "security-policy-03.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "Q38",
+      "question": "How often should electronic records be backed up according to the practice policy?",
+      "relevant_pages": [
+        {
+          "source": "security-policy-03.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "Q39",
+      "question": "How long are adult patient records kept according to the policy template?",
+      "relevant_pages": [
+        {
+          "source": "security-policy-03.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "Q40",
+      "question": "Within how many days will the Practice Manager respond to subject access requests according to the template?",
+      "relevant_pages": [
+        {
+          "source": "security-policy-03.pdf",
+          "page": 5
+        }
+      ]
+    }
+  ]
+}

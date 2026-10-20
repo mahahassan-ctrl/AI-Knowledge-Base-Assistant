@@ -1,0 +1,1875 @@
+
+================================================================================
+DOCUMENT: Enterprise HR and IT Policy Document.pdf
+TOTAL PAGES: 4
+================================================================================
+
+--- DOCUMENT: Enterprise HR and IT Policy Document.pdf | PAGE: 1 ---
+Enterprise HR and IT Policy Document 
+ 
+1. Introduction 
+This document outlines the policies and procedures that all employees must follow within 
+the organization. These policies are designed to ensure a safe, productive, and compliant 
+working environment. 
+ 
+2. Working Hours 
+Employees are expected to work 40 hours per week. Standard working hours are from 9:00 
+AM to 5:00 PM, Monday through Friday. Flexible working hours may be permitted between 
+8:00 AM and 6:00 PM with manager approval. 
+ 
+Overtime must be approved in advance by the employee’s direct supervisor. Repeated 
+failure to comply with working hour policies may result in disciplinary action. 
+ 
+3. Remote Work Policy 
+Employees are allowed to work remotely up to 2 days per week. Remote work requires prior 
+approval from the reporting manager. 
+ 
+All remote work must be conducted using secure company-approved systems. Employees 
+must connect through the company VPN when accessing internal resources. 
+ 
+Employees are responsible for maintaining a stable internet connection and ensuring a 
+productive work environment while working remotely. 
+ 
+4. Leave Policy 
+Employees are entitled to 20 paid vacation days per year. Vacation requests must be 
+submitted at least 2 weeks in advance through the company HR system.
+
+--- DOCUMENT: Enterprise HR and IT Policy Document.pdf | PAGE: 2 ---
+Sick leave must be reported within 24 hours. A medical certificate may be required for 
+absences longer than 3 consecutive days. 
+ 
+Unpaid leave may be granted under special circumstances, subject to management 
+approval. 
+ 
+5. Code of Conduct 
+All employees are expected to maintain a professional and respectful work environment. 
+Discrimination, harassment, or any form of inappropriate behavior will not be tolerated. 
+ 
+Employees must adhere to ethical standards and act in the best interests of the 
+organization at all times. 
+ 
+6. Data Protection Policy 
+Employees must comply with all applicable data protection regulations. Confidential 
+company information must not be shared with unauthorized individuals. 
+ 
+Sensitive data must be stored securely and accessed only through authorized systems. Any 
+data breach or suspected security incident must be reported immediately to the IT 
+department. 
+ 
+7. IT Usage Policy 
+Company-provided devices are to be used strictly for work-related purposes. Installation of 
+unauthorized software is prohibited. 
+ 
+Employees must not disable security features such as antivirus software or firewalls. 
+ 
+All company systems are monitored to ensure compliance with IT policies.
+
+--- DOCUMENT: Enterprise HR and IT Policy Document.pdf | PAGE: 3 ---
+8. Password and Security Guidelines 
+Passwords must be strong and contain a combination of letters, numbers, and special 
+characters. 
+ 
+Passwords must not be shared with anyone. Employees are required to update their 
+passwords every 90 days. 
+ 
+Multi-factor authentication (MFA) must be enabled wherever applicable. 
+ 
+9. Email and Communication Policy 
+Company email must be used for professional communication only. Employees should 
+avoid sharing sensitive information via unsecured channels. 
+ 
+Suspicious emails, including phishing attempts, must be reported to IT immediately. 
+ 
+10. Security Training 
+All employees must complete mandatory security awareness training on an annual basis. 
+ 
+Failure to complete training may result in restricted system access. 
+ 
+11. Compliance and Violations 
+Violation of company policies may result in disciplinary actions, including warnings, 
+suspension, or termination of employment. 
+ 
+Employees are encouraged to report any violations or unethical behavior to management 
+or HR.
+
+--- DOCUMENT: Enterprise HR and IT Policy Document.pdf | PAGE: 4 ---
+12. Policy Updates 
+The company reserves the right to update policies at any time. Employees will be notified of 
+any significant changes. 
+ 
+It is the responsibility of each employee to stay informed about current policies.
+
+================================================================================
+DOCUMENT: employee-handbook-01.pdf
+TOTAL PAGES: 38
+================================================================================
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 1 ---
+NFIB Guide to the 
+ Employee Handbook 
+ 
+How to Create a Custom and Effective 
+Handbook for your Employees 
+ 
+ 
+ 
+ 
+ 
+The NFIB Small Business Legal Center is providing this Guide to the Employee Handbook 
+in Microsoft Word format so that you can more easily adapt it to your workplace. 
+ 
+However, please remember that the Guide does not constitute legal advice, and that you 
+should consider consulting an employment attorney about any additional employment 
+laws and regulations that are applicable in your state, locality or particular type of 
+business. In addition, please note that if you make changes to the language in the Guide, 
+you may not be in compliance with federal employment law.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 2 ---
+i 
+The purpose of an employee handbook is to orient new employees with the company. It 
+is a resource that provides answers to the most frequently asked employee questions. 
+Besides informing new employees about company policy, a good handbook emphasizes 
+the at-will nature of the employment and the company’s disciplinary and termination 
+rights. Most importantly, it is a declaration of the employer’s rights and expectations. 
+ 
+To prepare a handbook, review your company’s policies. Decide which policies are 
+fundamental, which need adjustment and which should be removed. This model 
+handbook is intended to help in that review process. In addition, the model handbook 
+may include policies that your company does not. In some cases, a specific policy that 
+has been included in the model handbook might not apply to your company. For 
+instance, if your company does not offer health insurance to your employees, you 
+would not include a section on health insurance or COBRA. 
+ 
+At a minimum your employee handbook should contain the following seven items: 
+ 
+(1) an employment at-will disclaimer (section 1.3); 
+(2) a statement regarding equal employment opportunity (section 2.1); 
+(3) a policy prohibiting unlawful discrimination and harassment (section 2.2); 
+(4) a section that describes the policy for use of company property, social media, and 
+privacy rules (section 3); 
+(5) a section on employment classification and overtime rules (section 4); 
+(6) a policy on Family and Medical Leave if you have 50 or more employees (section 
+6.3); and 
+(7) a section on Safety (section 9). You should also consider including a disciplinary 
+guideline (section 8). 
+ 
+ 
+ 
+ 
+Throughout the handbook, you will note boxes of text similar to this. These boxes indicate a helpful tip 
+or legal alert. Many of the topics covered in the handbook are legal in nature, but not all sections have a 
+box. If you are unsure or unfamiliar with a section, research the law, contact the proper agency or 
+consult an attorney. These boxes are not intended to be part of your company’s manual, but rather are 
+suggestions that will make crafting your manual easier.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 3 ---
+ii 
+Table of Contents 
+1. Welcome 
+1.1. History, Goals & Culture 1 
+1.2. Purpose of this Handbook    1 
+1.3. At-Will Employment     1 
+ 
+2. Workplace Commitments 
+2.1. Equal Opportunity Employment   2 
+2.2. Non-Harassment / Non-Discrimination  2 
+2.3. Drug-Free / Alcohol-Free Environment  4 
+2.4. Open-Door Policy     5 
+2.5. Immigration Compliance    5 
+ 
+3. Company Policies and Procedures 
+3.1. Code of Professional Conduct    6 
+3.2. Dress Code      6 
+3.3. Payday       6 
+3.4. Company Property     7 
+3.5. Social Media policy     8 
+3.6. Privacy                              10 
+3.7. Personnel Files                             11 
+ 
+4. Employment Classification 
+4.1. Exempt Employees     12 
+4.2. Non-Exempt Employees    13 
+4.3. Part-Time, Full-Time or Temporary Status  13 
+ 
+5. Attendance Policies 
+5.1. General Attendance     14 
+5.2. Tardiness       14 
+5.3. Breaks       14 
+ 
+6. Leave Policies 
+6.1. Vacations       15 
+6.2. Sick Leave      15 
+6.3. Family and Medical Leave Act Leave   16 
+6.4. Holidays       19 
+6.5. Jury Duty Time Off     19 
+6.6. Voting Time Off      19
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 4 ---
+iii 
+6.7. Military Leave      20 
+6.8. Leave of Absence     20 
+ 
+7. Work Performance 
+7.1. Expectations      21 
+7.2. Reviews       21 
+7.3. Insubordination      22 
+ 
+8. Discipline Policy 
+8.1. Grounds for Disciplinary Action   23 
+8.2. Procedures      24 
+8.3. Termination      24 
+ 
+9. Employee Health and Safety 
+9.1. Workplace Safety     25 
+9.2. Workplace Security     25 
+9.3. Emergency Procedures     26 
+ 
+10. Employee Benefits 
+10.1. Health Insurance     27 
+10.2. Retirement Plans     27 
+10.3. Workers’ Compensation    28 
+10.4. Disability Coverage     28 
+ 
+11. Termination Policies 
+11.1. Voluntary Termination     30 
+11.2. Final Paycheck      30 
+11.3. COBRA Continuation of Health Benefits  30 
+11.4. Exit Interview      31 
+ 
+12. Acknowledgments of Receipt 
+12.1. Employee Copy      32 
+12.2. Employer Copy      33 
+ 
+ Using a table of contents with section indicators rather than just page numbers makes the handbook 
+easy to update. Begin new sections on a new page, leaving room for future adjustments if possible.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 5 ---
+1 
+Section 1 - Welcome 
+ 
+1.1 History, Goals & Culture 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2 Purpose of this Handbook 
+ 
+This handbook has been prepared to inform new employees of the policies and 
+procedures of this company and to establish the company’s expectations. It is not all-
+inclusive or intended to provide strict interpretations of our policies; rather, it offers an 
+overview of the work environment. This handbook is not a contract, expressed or 
+implied, guaranteeing employment for any length of time, and is not intended to induce 
+an employee to accept employment with the company.  
+ 
+The company reserves the right to unilaterally revise, suspend, revoke, terminate or 
+change any of its policies, in whole or in part, whether described within this handbook 
+or elsewhere, in its sole discretion. If any discrepancy between this handbook and 
+current company policy arises, conform to current company policy. Every effort will be 
+made to keep you informed of the company’s policies, however we cannot guarantee 
+that notice of revisions will be provided. Feel free to ask questions about any of the 
+information within this handbook.   
+ 
+This handbook supersedes and replaces any and all personnel policies and manuals 
+previously distributed, made available or applicable to employees. 
+ 
+ 
+1.3 At-Will Employment 
+ 
+Employment at this company is at-will. An at-will employment relationship can be 
+terminated at any time, with or without reason or notice by either the employer or the 
+employee. The at-will employment status of each employee cannot be altered by any 
+verbal statement or alleged verbal agreement of company personnel. It can only be 
+changed by a legally binding, written contract covering employment status. An 
+example of this would be a written employment agreement for a specific duration of 
+time. 
+ 
+This section should welcome the new employee and introduce them to the character of the company.  
+Write briefly about how the company began and who is in charge. Describe the company’s goals, 
+philosophy and core principles. Avoid describing the company like a family, as that might imply 
+indefinite employment.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 6 ---
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 2 – Workplace Commitments 
+ 
+2.1 Equal Opportunity Employment 
+ 
+This company is an equal opportunity employer and does not unlawfully discriminate 
+against employees or applicants for employment on the basis of an individual’s race, 
+color, religion, creed, sex, national origin, age, disability, marital status, veteran status 
+or any other status protected by applicable law. This policy applies to all terms, 
+conditions and privileges of employment, including recruitment, hiring, placement, 
+compensation, promotion, discipline and termination.   
+ 
+Whenever possible, the company makes reasonable accommodations for qualified 
+individuals with disabilities to the extent required by law. Employees who would like 
+to request a reasonable accommodation should contact [enter authorized person’s 
+name].  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 Non-Harassment Policy / Non-Discrimination Policy 
+ 
+This company prohibits discrimination or harassment based on race, color, religion, 
+creed, sex, national origin, age, disability, marital status, veteran status or any other 
+status protected by applicable law. Each individual has the right to work in a 
+professional atmosphere that promotes equal employment opportunities and is free 
+Several laws enforced by the U.S. Equal Opportunity Employment Commission prohibit workplace 
+discrimination. The Americans with Disabilities Act requires employers to provide, among other things, 
+reasonable accommodations to qualified individuals with disabilities unless to do so would cause an 
+undue hardship to the company. Include an equal opportunity statement and a disability statement to 
+exhibit that your company observes these laws. The company should be aware of state and/or local 
+laws which provide greater protection than the federal discrimination laws, such as recognizing 
+additional protected classes beyond those protected by federal statute. 
+ 
+Sections 1.2 and 1.3 are essential items for a handbook. Employers are vulnerable to lawsuits if they do not 
+provide statements regarding the non-contractual nature of the handbook or at-will employment. Employees 
+should also agree to these terms on the “Acknowledgment of Receipt” form. Some states limit the terms of at -
+will employment, or have additional requirements for effectively disclaiming the existence of a contract (e.g., 
+requiring that the disclaimer be conspicuous by underlining it or placing it in bold text). Additionally, the National 
+Labor Relations Board (NLRB) has recently called into question the legality of at -will employment disclaimers in 
+employee handbooks on grounds that such provisions may restrict an employee’s Section 7 rights under the 
+National Labor Relations Act.  Specifically, the NLRB contends that typical at-will disclaimers may lead 
+employees to conclude that they cannot alter their employment relationship, even through collective bargaining. 
+As a result, you should consult with an employment attorney regarding your state’s laws as well as federal 
+issues.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 7 ---
+3 
+from discriminatory practices, including, without limitation, harassment. Consistent 
+with its workplace policy of equal employment opportunity, the company prohibits and 
+will not tolerate harassment on the basis of race, color, religion, creed, sex, national 
+origin, age, disability, marital status, veteran status or any other status protected by 
+applicable law. Violations of this policy will not be tolerated.  
+ 
+Discrimination includes, but is not limited to: making any employment decision or 
+employment-related action on the basis of race, color, religion, creed, age, sex, 
+disability, national origin, marital or veteran status, or any other status protected by 
+applicable law. 
+ 
+Harassment is generally defined as unwelcome verbal or non-verbal conduct, based 
+upon a person’s protected characteristic, that denigrates or shows hostility or aversion 
+toward the person because of the characteristic, and which affects the person’s 
+employment opportunities or benefits, has the purpose or effect of unreasonably 
+interfering with the person’s work performance, or has the purpose or effect of creating 
+an intimidating, hostile or offensive working environment. Harassing conduct includes, 
+but is not limited to: epithets; slurs or negative stereotyping; threatening, intimidating 
+or hostile acts; or denigrating jokes and display or circulation in the workplace of 
+written or graphic material that denigrates or shows hostility or aversion toward an 
+individual or group based on their protected characteristic.  
+ 
+Sexual harassment is defined as unwelcome sexual advances, requests for sexual favors 
+and other verbal, visual or physical conduct of a sexual nature, when: 
+ 
+1. submission to such conduct is made either explicitly or implicitly a term 
+or condition of an individual’s employment; 
+2. submission to or rejection of such conduct by an individual is used as the 
+basis for employment decisions affecting such individual; or 
+3. such conduct has the purpose or effect of unreasonably interfering with an 
+individual’s work performance or creating an intimidating, hostile or 
+offensive working environment. 
+ 
+Examples of sexual harassment include: unwelcome or unsolicited sexual advances; 
+displaying sexually suggestive material; unwelcome sexual flirtations, advances or 
+propositions; suggestive comments; verbal abuse of a sexual nature; sexually-oriented 
+jokes; crude or vulgar language or gestures; graphic or verbal commentaries about an 
+individual’s body; display or distribution of obscene materials; physical contact such as 
+patting, pinching or brushing against someone’s body; or physical assault of a sexual 
+nature.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 8 ---
+4 
+ 
+Complaint Procedure: 
+ 
+Any company employee who feels that he or she has been harassed or discriminated 
+against, or has witnessed or become aware of discrimination or harassment in violation 
+of these policies, should bring the matter to the immediate attention of his or her 
+supervisor or [enter name of alternative person to whom employees can report]. The 
+company will promptly investigate all allegations of discrimination and harassment, 
+and take action as appropriate based on the outcome of the investigation. An 
+investigation and its results will be treated as confidential to the extent feasible and 
+permitted by law, and the company will take appropriate action based on the outcome 
+of the investigation.  
+  
+No employee will be retaliated against for making a complaint in good faith regarding a 
+violation of these policies, or for participating in good faith in an investigation pursuant 
+to these policies. If an employee feels he/she has been retaliated against, the employee 
+should file a complaint using the procedures set forth above. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3 Drug-Free / Alcohol-Free Environment 
+ 
+Employees are prohibited from unlawfully consuming, distributing, possessing, selling, 
+or using controlled substances while on duty. In addition, employees may not be under 
+the influence of any controlled substance, such as drugs or alcohol, while at work, on 
+company premises or engaged in company business. Prescription drugs or over-the-
+counter medications, taken as prescribed, are an exception to this policy.  
+ 
+Anyone violating this policy may be subject to disciplinary action, up to and including 
+termination.  
+ 
+ 
+ 
+ 
+ 
+ 
+It is important for employers to implement non-harassment policies, including a provision regarding 
+reporting procedures. To the extent that an employee fails to report harassment by a co -employee as 
+required by an established policy, this may be a possible defense in response to a legal action initiated 
+by the employee. Once in place, the company should make sure that the policy is carried out, including 
+prompt investigation of claims of discrimination and harassment. 
+ 
+Some employers may choose to drug-test applicants and employees. There are federal, state and 
+local laws governing drug testing. Accordingly, before implementing a drug-testing program, the 
+company should consult an attorney. Some states or localities also require tobacco-free workplaces, 
+and employers should check to see if their state or locality bans smoking in the workplace .
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 9 ---
+5 
+ 
+2.4 Open-Door Policy 
+ 
+The company has an open-door policy and takes employee concerns and problems 
+seriously. The company values each employee and strives to provide a positive work 
+experience. Employees are encouraged to bring any workplace concerns or problems 
+they might have or know about to their supervisor or some other member of 
+management.  
+ 
+2.5  Immigration Compliance 
+ 
+The company is committed to complying with federal laws and regulations concerning 
+verification of employment eligibility and record-keeping for employees hired to work 
+in the United States. As a condition of employment, every individual must provide 
+satisfactory evidence of his or her identity and legal authority to work in the United 
+States on his or her first day of employment with the company. Anyone with questions 
+regarding any aspect of employment and/or identity verification should contact [insert 
+appropriate manager’s name].
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 10 ---
+6 
+Section 3 – Company Policies and Procedures 
+  
+3.1 Code of Professional Conduct 
+ 
+This company expects its employees to adhere to a standard of professional conduct 
+and integrity. This ensures that the work environment is safe, comfortable and 
+productive. Employees should be respectful, courteous, and mindful of others’ feelings 
+and needs. General cooperation between coworkers and supervisors is expected. 
+Individuals who act in an unprofessional manner may be subject to disciplinary action. 
+ 
+ 
+3.2 Dress Code 
+ 
+An employee’s personal appearance and hygiene is a reflection on the company’s 
+character. Employees are expected to dress appropriately for their individual work 
+responsibilities and position.  
+ 
+ 
+ 
+ 
+ 
+ 
+3.3 Payday 
+ 
+Paychecks are distributed every [dates] after [time]. If the pay date lands on a holiday, 
+paychecks will be distributed on the closest business day before the holiday.  
+ 
+The paycheck will reflect work performed for the [enter pay period dates, commission 
+period dates, etc.] period. Paychecks include salary or wages earned less any 
+mandatory or elected deductions. Mandatory deductions include federal or state 
+withholding tax, and other withholdings. Elected deductions are deductions authorized 
+by the employee, and may include, for example, contributions to benefit plans.  
+Employees may contact [enter authorized person’s name] to obtain the necessary 
+authorization forms for requesting additional deductions from their paychecks. 
+ 
+Notify a supervisor if the paycheck appears to be inaccurate or if it has been misplaced. 
+The company reserves the right to charge a replacement fee for any lost paychecks. 
+Advances on paychecks [are/are not] permitted. Information regarding final paychecks 
+can be found under the termination section of this handbook. 
+This section may be expanded to include the specific requirements of your company. Include 
+information regarding uniforms, safety protections such as steel toe shoes or hairnets, or other dress 
+requirements. If the company provides uniforms, consider including a caveat about lost uniform charges 
+or laundry.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 11 ---
+7 
+Any change in name, address, telephone number, marital status or number of 
+exemptions claimed by an employee must be reported to [enter authorized person’s 
+name] immediately. 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4 Company Property 
+ 
+Company property, such as equipment, vehicles, telephones, computers, and software, 
+is not for private use. These devices are to be used strictly for company business, and 
+are not permitted off grounds unless authorized. Company property must be used in 
+the manner for which it was intended. Upon termination, employees are required to 
+surrender any company property they possess.  
+ 
+Company computers, Internet and e-mails are a privileged resource, and must be used 
+only to complete essential job-related functions. Employees are not permitted to 
+download any “pirated” software, files or programs and must receive permission from 
+a supervisor before installing any new software on a company computer. Files or 
+programs stored on company computers may not be copied for personal use.  
+ 
+Phones are provided for business use. The company requests that employees not 
+receive personal calls while on duty. If urgent, please keep personal calls to a minimum 
+and conversations brief. Personal long distance calls are not permitted.  
+ 
+Employees are reminded that they should have no expectation of privacy in their use of 
+company computers or other electronic equipment. 
+ 
+Violations of these policies could result in disciplinary action. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Companies should consult state and local law for wage payment requirements, such as means of 
+payment (including the opportunity to pay by direct deposit), timeframe for paying wages, and 
+information that must be included on paycheck stubs. 
+ 
+Companies may institute a policy of “business use only.” Alternatively, a company may adopt a less 
+stringent policy which advises employees that computers and phones are provided for business use, 
+and any personal use must be kept to a minimum and must not interfere with work responsibilities.  
+Companies should develop a policy specific to their own computer systems that protects against 
+employee misuse and the computer viruses that may result from downloading outside materials.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 12 ---
+8 
+3.5 Social Media Policy 
+The company understands that social media can be a fun and rewarding way to 
+communicate with family, friends and co-workers. However, use of social media also 
+presents certain risks and carries with it certain responsibilities. To assist employees in 
+making responsible decisions about the use of social media, the company has 
+established these guidelines for appropriate use of social media. 
+This policy applies to all employees who work for the company.   
+GUIDELINES 
+In the rapidly expanding world of electronic communication, social media can mean 
+many things. Social media includes all means of communicating or posting information 
+or content of any sort on the Internet, including to your own or someone else’s web log 
+or blog, journal or diary, personal website, social networking or affinity website, web 
+bulletin board or a chat room, whether or not associated or affiliated with the company, 
+as well as any other form of electronic communication. The same principles and 
+guidelines found in the company’s policies apply to employees’ activities on-line. 
+Ultimately, you are solely responsible for what you post on-line. Before creating on-line 
+content, consider some of the risks and rewards that are involved. Keep in mind that 
+any of your conduct that adversely affects your job performance, the performance of 
+fellow employees or otherwise adversely affects customers, suppliers, people who work 
+on behalf of the company or the company’s legitimate business interests may result in 
+disciplinary action up to and including termination. 
+Know and follow the rules 
+Carefully read this Social Media Policy, the Equal Employment Policy, the Non-
+Harassment/Non-Discrimination Policy, and the Code of Professional Conduct and 
+ensure your postings are consistent with these policies. Postings that may include 
+maliciously defamatory remarks, unlawful harassment, and threats of violence or 
+similar unlawful conduct will not be tolerated and may subject you to disciplinary 
+action up to and including termination. 
+ 
+Be responsible 
+Use your best judgment and exercise personal responsibility. Take your responsibility 
+as stewards of personal information to heart. Integrity, accountability, and respect are 
+core values. We trust and expect you to exercise personal responsibility whenever you 
+participate in social media or other on-line activities. Remember that there can be 
+consequences to your actions in the social media world – both internally, if your
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 13 ---
+9 
+comments violate company policies, and with outside individuals and/or entities.  If 
+you are about to publish, respond or engage in something that makes you even the 
+slightest bit uncomfortable, don’t do it.   
+Also, we encourage you to try to resolve all differences with an individual, 
+organization, or even the Company through direct communications with the individual, 
+organization, or Company. Remember, the Company has an Open Door policy. It can 
+be used to try to resolve differences with the Company, management, or even your co-
+workers. We encourage you to try to use the Open Door policy.  It works! 
+Nevertheless, if you decide to post complaints or criticism, avoid using statements, 
+photographs, video or audio that are maliciously defamatory, that are obscene, that 
+disparage customers, that attack the Company’s product, or that might constitute 
+unlawful harassment. Examples of such conduct might include false posts meant to 
+intentionally or maliciously harm someone’s reputation or posts that could contribute 
+to a hostile work environment on the basis of race, sex, disability, religion or any other 
+status protected by law or company policy. 
+Be honest and accurate 
+The best practice is to check your facts before posting information or news, and if you 
+make a mistake, correct it quickly. Be open about any previous posts you have altered.  
+Remember that the Internet archives almost everything and deleted postings can be 
+searched. Never post any information or rumors that you know to be false about the 
+company, fellow employees, customers, suppliers, people working on behalf of the 
+company or competitors. 
+Post only appropriate and respectful content 
+• Maintain the confidentiality of the company’s trade secrets and private or 
+confidential information. Trade secrets may include information regarding the 
+development of systems, processes, products, know-how and technology.  
+• FTC regulations require persons with a material interest to disclose their 
+association with a company if they give a testimonial or other product 
+endorsement. Do not give a product testimonial, endorse the Company’s 
+product, or otherwise publicize or promote the Company in any way without 
+identifying yourself as a company employee. 
+• Express only your personal opinions. Never represent yourself as a spokesperson 
+for the company. If the company is a subject of the content you are creating, be 
+clear and open about the fact that you are an employee and make it clear that 
+your views do not represent those of the company, customers, or its suppliers. If
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 14 ---
+10 
+you do publish a blog or post on-line related to the work you do or subjects 
+associated with the company, make it clear that you are not speaking on behalf of 
+the company. It is best to include a disclaimer such as “The postings on this site 
+are my own and do not necessarily reflect the views of [the company].” 
+Using social media at work 
+Refrain from using social media while on work time, unless it is work-related as 
+authorized by a manager. To help reduce spam and other unwanted e-mail traffic, 
+employees should not use company e-mail addresses to register on social networks, 
+blogs or other on-line tools utilized for personal use.  Please use your own individual or 
+private e-mail address. 
+ 
+Retaliation is prohibited 
+The company prohibits taking negative action against any employee for reporting a 
+possible deviation from this policy or for cooperating in an investigation. Any employee 
+who retaliates against another employee for reporting a possible deviation from this 
+policy or for cooperating in an investigation will be subject to disciplinary action, up to 
+and including termination. 
+ 
+With regard to e-mail and Internet policies, a “business only” rule MAY work, but our guess is the NLRB is 
+eventually going to find that employer-owned computer systems, much like employer premises, have 
+work areas and non-work areas and as long as an employee is not violating the general (lawful) non -
+solicitation rule, then employees are as free to use employer computers to engage in section 7 rights as 
+much as they are the break room. 
+ 
+3.6 Privacy 
+ 
+Employees and employers share a relationship based on trust and mutual respect. 
+However, the company retains the right to access all company property including 
+computers, desks, file cabinets, storage facilities, and files and folders - electronic or 
+otherwise - at any time. Employees should not entertain any expectations of privacy 
+when on company grounds or while using company property.  
+ 
+All documents, files, voice-mails and electronic information, including e-mails and 
+other communications, created, received or maintained on or through company  
+property are the property of the company, not the employee. Therefore employees 
+should have no expectation of privacy over those files or documents.  
+ 
+ 
+ 
+ 
+If you plan to enforce a privacy policy, ensure that you are very explicit about what the company 
+expects. Privacy laws are relatively new and vary from state to state. Consult with an employment 
+attorney regarding your state’s privacy laws.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 15 ---
+11 
+3.7 Personnel Files 
+ 
+The company maintains a personnel file on each employee. These files are kept 
+confidential to the extent possible. Employees may review their personnel file upon 
+request.   
+ 
+It is important that personnel files accurately reflect each employee’s personal 
+information. Employees are expected to inform the company of any change in name, 
+address, home phone number, home address, marital status, number of dependents or 
+emergency contact information. 
+ 
+ 
+ 
+ 
+Employers should consult state and local law regarding any provisions relating to employee access to 
+personnel files. In the absence of such a provision, the company may not be required to allow 
+employees to have access to their personnel files. However, the company may nonetheless allow 
+employees to have access. In the event that a company allows employee access, the company may 
+want to consider limiting the access to by-appointment-only during normal business hours.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 16 ---
+12 
+Section 4 - Employment Classification 
+ 
+This company assigns positions, determines wages and compensates employees for 
+overtime in accordance with state and local laws and the Fair Labor Standards Act.  
+ 
+4.1 Exempt Employees 
+ 
+Exempt employees are those that are excluded from the overtime pay requirements of 
+the Fair Labor Standards Act. Exempt employees are paid a salary, have certain types of 
+job duties, and are expected to work beyond their normal work hours whenever 
+necessary to accomplish the work of the company.  
+ 
+As an exempt employee, your salary is subject to certain deductions. For example, 
+absent contrary state law requirements, your salary can be reduced for the following 
+reasons: 
+ 
+• Full-day absences for personal reasons.  
+• Full-day absences for sickness or disability.  
+• Full-day disciplinary suspensions for infractions of the company’s written 
+policies and procedures.  
+• Family and Medical Leave absences (either full- or partial-day absences).  
+• To offset amounts received as payment for jury and witness fees or military pay.  
+• The first or last week of employment in the event you work less than a full week.   
+• Any full work week in which you do not perform any work. 
+ 
+Your salary may also be reduced for certain types of deductions such as your portion of 
+health, dental or life insurance premiums; state, federal or local taxes; Social Security; 
+or, voluntary contributions to a 401(k) or pension plan. In any work week in which you 
+performed any work, your salary will not be reduced for any of the following reasons: 
+ 
+• Partial day absences for personal reasons, sickness or disability.  
+• Your absence on a day because your employer has decided to close a facility on a 
+scheduled work day.  
+• Absences for jury duty, attendance as a witness, or military leave in any week in 
+which you have performed any work.  
+• Any other deductions prohibited by state or federal law.  
+  
+Employees should consult with [insert manager’s name here] if they have questions 
+regarding their classification as an exempt employee.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 17 ---
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2 Non-Exempt Employees 
+ 
+Non-exempt employees are those eligible for overtime pay of 1.5 times the regular  
+hourly rate of pay for all hours worked over 40 per work week. All overtime must be 
+approved in advance. Employees should consult with an administrator if they have 
+questions regarding their classification as a non-exempt employee.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.3 Part-Time, Full-Time or Temporary Status 
+ 
+Part-time or full-time status depends on the number of hours per week an employee 
+works. Regular employees who work fewer than [enter hours] receive part-time 
+classification. Part-time employees [are/are not] eligible for employee benefits as 
+described in this handbook. Regular employees who work at least [enter hours] receive 
+full-time classification.  
+ 
+From time to time the company may hire employees for specific projects or periods of 
+time. Temporary employees may work either part-time or full-time, but generally are 
+scheduled to terminate by a certain date. Temporary employees who remain on duty 
+past the scheduled termination remain classified as temporary. Only [enter authorized 
+person’s name] may change an employee’s temporary status. Temporary employees are 
+not eligible for employment benefits.  
+ 
+The Fair Labor Standards Act (“FLSA”) provides narrow provisions for who qualifies for exempt 
+employee status. Exempt employees must meet a certain salary threshold and perform certain job 
+duties, which are specified in the FLSA and interpreting regulations. Misclassification of employees (as 
+exempt versus non-exempt) can result in a company paying a significant amount in damages. The 
+company should consult the Department of Labor’s website at http://www.dol.gov or an attorney for 
+more information on employee classification. 
+The Fair Labor Standards Act limits the employers that must pay overtime wages to employees, to 
+those engaged in “interstate commerce” and other particular types of businesses. Companies should 
+consult an attorney if there is a question about an obligation to pay overtime wages. Companies should 
+also consult state and local law regarding broader overtime coverage than is provided under the federal 
+Fair Labor Standards Act. For example, some jurisdictions may require companies to pay overtime for 
+all hours worked in a day over 8 hours, rather than using the federal standard of paying overtime for all 
+hours worked over 40 hours in a given work week.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 18 ---
+14 
+Section 5 – Attendance Policies 
+ 
+5.1 General Attendance 
+ 
+The company maintains normal working hours of [enter hours]. Hours may vary 
+depending on work location and job responsibilities. Supervisors will provide 
+employees with their work schedule. Should an employee have any questions 
+regarding his/her work schedule, the employee should contact the supervisor. 
+ 
+The company does not tolerate absenteeism without excuse. Employees who will be late 
+to or absent from work should notify a supervisor in advance, or as soon as practicable 
+in the event of an emergency. Chronic absenteeism may result in disciplinary action, up 
+to and including termination.  
+ 
+Employees who need to leave early, for illness or otherwise, should inform a supervisor 
+before departure. Unauthorized departures may result in disciplinary action, up to and 
+including termination.  
+ 
+ 
+5.2 Tardiness 
+ 
+Employees are expected to arrive on time and ready for work. An employee who 
+arrives [enter time period] after their scheduled arrival time is considered tardy. The 
+company recognizes that situations arise which hinder punctuality; regardless, 
+excessive tardiness is prohibited, and may be subject to disciplinary action, up to and 
+including termination. 
+ 
+ 
+5.3 Breaks 
+ 
+When working conditions permit, and pending a supervisor’s approval, employees are 
+entitled to [enter number] [enter time] minute breaks for every [enter hours] hours 
+worked.  
+ 
+Meal periods are for [enter time] minutes, and must be approved by a supervisor.  
+The laws regarding break and meal periods are different for each state. Consult with an employment 
+attorney regarding your state’s laws to make sure you provide the required meal and break times.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 19 ---
+15 
+Section 6 – Leave Policies  
+ 
+6.1 Vacations 
+ 
+The company provides, as a benefit, paid vacations for its eligible employees. Forward 
+requests for time off in advance to a supervisor, who may approve or deny the request 
+based on company resources. The company is flexible in approving time off when doing 
+so would not interfere with company operations. Vacation days are granted only on a 
+full-day or half-day basis. 
+ 
+A regular employee is eligible to receive paid time off after [enter number] months of 
+full-time service. Accrued time off may be taken after [enter eligibility dates]. 
+Employees must earn and accrue vacation benefits before they may be used. Employees 
+should consult [enter authorized person’s name] regarding the amount of vacation 
+leave they accrue each pay period. 
+ 
+Any remaining accrued time off [may/may not] be accumulated or carried forward into 
+the next year. Vacation benefits [do/do not] accrue during any period of extended leave 
+of absence.  
+ 
+ 
+ 
+ 
+ 
+ 
+6.2 Sick Leave 
+ 
+Situations may arise where an employee needs to take time off to address medical or 
+other health concerns. The company requests that employees provide notification to 
+their supervisor as soon as practicable when taking time off. Sick days are granted on a 
+[paid/unpaid] basis to regular employees. Employees may consult [enter authorized 
+person’s name] regarding the amount of (paid) sick leave provided each year. Sick days 
+may not be carried over into the next year. Abuse of this policy may result in 
+disciplinary action.  
+ 
+ 
+ 
+ 
+ 
+ 
+Generally, states do not require vacation benefits for employees, but most employers offer this benefit. If 
+you have a set vacation accrual for your company, insert it into this section. Modify this section if your 
+company provides paid time off instead of vacation and sick leave. You should also consult with an 
+employment attorney regarding your state’s requirements related to the accrual and carryover of vacation 
+or paid time off. 
+ 
+States are increasingly requiring employers to provide a minimum number of paid sick leave days to 
+employees. Consult with an employment attorney regarding your state’s laws regarding mandatory 
+paid sick leave.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 20 ---
+16 
+6.3 Family and Medical Leave Act Leave 
+ 
+The company offers leave consistent with the requirements of the federal Family and 
+Medical Leave Act (FMLA). Under the FMLA, an employee may be eligible for an 
+unpaid family and medical leave of absence under certain circumstances, if the employee 
+has worked as an employee of the company for at least 1,250 hours for 12 months and 
+works within a seventy-five (75) mile radius of fifty (50) or more company employees.   
+ 
+Reasons for Leave 
+Employees eligible for FMLA leave may take leave for the following reasons: 
+ 
+- The birth of a child and to care for the newborn child; 
+- Placement of a child into adoptive or foster care with the employee; 
+- Care for a spouse, child, or parent who has a serious health condition;  
+- Care for the employee’s own serious health condition; 
+- Qualifying emergencies arising out of a spouse’s, child’s, or parent’s active duty or 
+call to active duty as a member of the military reserves  or National Guard 
+(“Emergency Military Leave”); or 
+- Care for a spouse, child, parent or next of kin (nearest blood relative) who is (a) an 
+Armed Forces member (including the military reserves and National Guard) 
+undergoing medical treatment, recuperation, therapy, or is otherwise in an 
+outpatient status, or is otherwise on the temporary disability retired list, due to a 
+serious injury or illness incurred or aggravated in the line of duty; or (b) a person 
+who, during the five (5) years prior to the treatment necessitating the leave, 
+served in the active military, Naval, or Air Service, and who was discharged or 
+released under conditions other than dishonorable (a “veteran” as defined by the 
+Department of Veterans Affairs) and who has a serious injury or illness incurred 
+or aggravated in the line of duty while on active duty that arose before or after 
+the member became a veteran (“Military Caregiver Leave”). 
+ 
+Length of Leave 
+With the exception of Military Caregiver Leave, the maximum amount of FMLA Leave 
+will be twelve (12) workweeks in any 12-month period. 
+ 
+If both spouses work for the company and are eligible for FMLA leave , the spouses will 
+be limited to a total of 12 workweeks off between the two of them for leave related to 
+the birth, adoption or foster care of a child, and leave to care for the serious health 
+condition of a family member.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 21 ---
+17 
+The maximum amount of FMLA Leave for an employee wishing to take Military 
+Caregiver Leave will be a combined leave total of twenty-six (26) workweeks in a single 
+12-month period.    
+ 
+If both spouses work for the company and are eligible for FMLA leave, the spouses will 
+be limited to a total of 26 workweeks off between the two of them when the leave is for 
+Military Caregiver Leave or a combination of Military Caregiver Leave with another 
+leave category.  
+ 
+Leave may be taken on an intermittent or reduced schedule in certain circumstances. 
+When leave is taken intermittently, the company may transfer the employee to another 
+position with equivalent pay and benefits, which is better suited to periods of absence.  
+ 
+Notice and Certification 
+If the need for leave is foreseeable, employees should notify a supervisor 30 days prior 
+to taking FMLA leave. If the need for FMLA leave arises unexpectedly, employees 
+should notify a supervisor as soon as practicable, giving as much notice to the company 
+as possible.  
+ 
+Employees requesting FMLA leave may be required to provide:  medical certifications 
+supporting the need for leave if the leave is due to a medical condition of the employee 
+or employee’s family member; periodic recertification of the medical condition; and 
+periodic reports during the leave regarding the employee’s status and intent to return to 
+work. Employees requesting Military Caregiver Leave, are required to provide: as much 
+advance notice as is reasonable and practicable under the circumstances; a copy of the 
+covered military member's active duty orders when the employee requests leave; and a 
+completed Certification of Qualifying Exigency form within 15 calendar days, unless 
+unusual circumstances exist to justify providing the form at a later date. 
+ 
+Certification forms are available from Human Resources. At the company’s expense, the 
+company may also require a second or third medical opinion regarding an employee’s 
+own serious health condition. Employees are expected to cooperate with the company 
+in obtaining additional medical opinions that the company may require. 
+ 
+Employees are expected to return to work immediately after the completion of the 
+requested FMLA leave, and employees who have taken leave because of their own 
+serious health condition must submit a fitness-for-duty certification before being 
+allowed to return to work.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 22 ---
+18 
+Use of Paid and Unpaid Leave: 
+Subject to certain conditions, the employee or the company may choose to use accrued 
+paid leave (such as sick leave or vacation leave) concurrent with FMLA leave.  
+  
+Benefits 
+The company will maintain group health insurance coverage for an employee on family 
+and medical leave on the same terms as if the employee had continued work. If 
+applicable, arrangements will be made for the employee to pay their share of health 
+insurance premiums while on leave. The company may recover premiums paid to 
+maintain health coverage for an employee who fails to return to work from family and 
+medical leave. 
+If an employee would like the company to maintain other paid benefits during the 
+period of leave, premiums and charges which are partially or wholly paid by the 
+employee must continue to be paid by the employee during the leave time. 
+FMLA leave will not result in the loss of any employment benefit accrued prior to the 
+date on which the leave commenced. However, an employee on FMLA leave does not 
+continue to accrue benefits (e.g., sick leave or vacation leave) during the period of 
+family and medical leave. Questions regarding particular benefits should be directed to 
+[enter authorized person’s name]. 
+ 
+Reinstatement 
+Upon returning from FMLA leave, an employee will be restored to his/her original job 
+or an equivalent job with equivalent benefits, pay, seniority, and other employment 
+terms and conditions, to the extent required by the Family and Medical Leave Act. If an 
+employee fails to return to work at the conclusion of the FMLA leave, and has not 
+obtained an extension of the leave, the company may presume that the employee does 
+not plan to return to work and has voluntarily terminated his or her employment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If your company has 50 or more employees, you are required to comply with the Family and Medical 
+Leave Act. If you are covered, your manual should include an FMLA section. For more information on 
+the FMLA, visit the Department of Labor’s website at www.dol.gov. In addition, some states and local 
+jurisdictions, including the District of Columbia, provide broader family and medical leave coverage to 
+employees, so you should consult an attorney regarding applicable state and local laws. If your company 
+is required to comply with the FMLA, you may consider requiring employees to exhaust their accrued paid 
+leave at the same time they are on FMLA leave. Otherwise, an employee could take up to 12 weeks of 
+FMLA leave in addition to all of his/her accrued vacation and sick leave.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 23 ---
+19 
+6.4 Holidays 
+ 
+The company observes the following holidays: 
+- New Year’s Day 
+- Martin Luther King, Jr. Day 
+- Memorial Day 
+- Independence Day 
+- Labor Day 
+- Thanksgiving Day 
+- Christmas Day 
+[list other observed holidays] 
+ 
+Holidays are observed on a [paid/unpaid] basis for all eligible employees. [Full-time 
+employees are eligible for paid holiday benefits.]  
+ 
+ 
+ 
+ 
+ 
+6.5 Jury Duty Time Off 
+ 
+The company understands that occasionally employees are called to serve on a jury. 
+Employees who are selected for jury duty must provide a copy of their jury summons to 
+a supervisor. Time taken for jury duty is granted on a [paid/unpaid] basis. Employees 
+released from jury duty with [enter number] hours remaining in the workday, are 
+expected to return to work. 
+ 
+6.6 Voting Time Off 
+ 
+Employees are encouraged to participate in elections. The company grants incremental 
+time off to cast a ballot in an election. Voting time off is granted on a [paid/unpaid] 
+basis. Should extenuating circumstances arise while voting, notify a supervisor as soon 
+as possible.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Companies should consult state and local law to determine if there are any mandated holidays in the 
+jurisdictions in which they are located. 
+ 
+ 
+Most state laws prohibit an employer from taking any disciplinary action against employees for taking time 
+off to vote or serve on a jury. Some states even require the time off to be granted on a paid basis or 
+regulate the employee’s return to work date following jury duty. If your state requires paid jury/voting time 
+off, or other requirements, be sure to provide as much detail as possible about your state’s leave 
+provisions.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 24 ---
+20 
+6.7 Military Leave 
+ 
+Employees called to active military duty, military reserve or National Guard service 
+may be eligible to receive time off under the Uniformed Services Employment and 
+Reemployment Rights Act of 1994. To receive time off, employees must provide notice 
+and a copy of their report orders to an immediate supervisor. Military leave is granted 
+on a [paid/unpaid] basis [if leave is on a paid basis, indicate the maximum number of 
+days of paid leave to be provided by the company]. Upon return with an honorable 
+discharge, an employee may be entitled to reinstatement and any applicable job benefits 
+they would have received if present, to the extent provided by law.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.8 Leave of Absence 
+ 
+Regular full-time employees may request an unpaid leave of absence after the exhaustion 
+of paid leave. A request for a leave of absence must be submitted in writing in advance to 
+the employee's immediate supervisor.   
+ 
+Leave of absences that are granted are unpaid, and will not be considered until an 
+employee has exhausted all appropriate accrued leave balances. Continuation of 
+employee benefits during a leave of absence will be addressed on an individual basis, as 
+required by law. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Every company, regardless of the number of people employed, is required to comply with the 
+Uniformed Services Employment and Reemployment Rights Act. Under the Act, employers are 
+prevented from taking disciplinary action against an employee because of their military status. For more 
+information on the USERRA, visit the Department of Labor’s website at http://www.dol.gov. 
+ 
+ 
+ 
+Companies should consider establishing a leave of absence policy. It is a common practice for 
+companies to consider employees’ requests for unpaid leaves of absence. In particular, it may be 
+appropriate for a company to allow a qualified disabled employee to take additional unpaid leave 
+beyond the amount of leave he/she may be entitled to under the Family and Medical Leave Act. As a 
+result, it may make sense to provide employees with a written policy on this benefit.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 25 ---
+21 
+Section 7 – Work Performance 
+ 
+7.1 Expectations  
+ 
+The company expects every employee to act in a professional manner. Satisfactory 
+performance of job duties and responsibilities is key to this expectation. Employees 
+should attempt to achieve their job objectives, and act with diligence and consideration 
+at all times. Poor job performance can result in disciplinary action, up to and including 
+termination. 
+ 
+ 
+7.2 Reviews 
+ 
+The company may periodically evaluate an employee’s performance. The goal of a 
+performance review is to identify areas where an employee excels and areas that need 
+improvement. The company uses performance reviews as a tool to determine pay 
+increases, promotions and/or terminations.  
+ 
+All performance reviews are based on merit, achievement and other factors that may 
+include, but are not limited to: 
+- Quality of work 
+- Attitude 
+- Knowledge of work 
+- Job skills 
+- Attendance and punctuality 
+- Teamwork and cooperation 
+- Compliance with company policy 
+- Past performance reviews 
+- Improvement 
+- Acceptance of responsibility and constructive feedback 
+ 
+Employees should note that a performance review does not guarantee a pay increase or 
+promotion. Written performance evaluations may be made at any time to advise 
+employees of unacceptable performance. Evaluations or any subsequent change in 
+employment status, position or pay does not alter the employee’s at-will relationship 
+with the company.  
+ 
+Forward any questions about performance expectation or evaluation to the supervisor 
+conducting the evaluation.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 26 ---
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+7.3 Insubordination 
+ 
+Supervisors and employees should interact with mutual respect and common courtesy. 
+Employees are expected to take instruction from supervisors or other persons of 
+authority. Failure to comply with instructions or unreasonably delaying compliance is 
+considered insubordination. Acts of insubordination are subject to disciplinary action, 
+up to and including termination.  
+ 
+If an employee disagrees with a supervisor, the employee should first try to mediate the 
+situation by explaining their position. If possible, a compromise might be met and 
+accusations of insubordination avoided.  
+Companies that adhere to a performance review policy can avoid problems handling “poor 
+performance” terminations. If your company has a review policy, it is not necessary to include the 
+whole policy in the handbook. Adding a simple timeline of when employees may expect a review is 
+sufficient.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 27 ---
+23 
+Section 8 – Discipline Policy 
+ 
+8.1 Grounds for Disciplinary Action 
+ 
+The company reserves the right to discipline and/or terminate any employee who 
+violates company policies, practices or rules of conduct. Poor performance and 
+misconduct are also grounds for discipline, up to and including termination.  
+ 
+The following actions are unacceptable and considered grounds for disciplinary action. 
+This list is not comprehensive; rather, it is meant merely as an example of the types of 
+conduct that this company does not tolerate. These actions include, but are not limited 
+to: 
+- Engaging in acts of discrimination or harassment in the workplace; 
+- Possessing, distributing or being under the influence of illicit controlled 
+substances; 
+- Being under the influence of a controlled substance or alcohol at work, on 
+company premises, or while engaged in company business; 
+- Unauthorized use of company property, equipment, devices or assets; 
+- Damage, destruction or theft of company property, equipment, devices or assets; 
+- Removing company property without prior authorization or disseminating 
+company information without authorization; 
+- Falsification, misrepresentation or omission of information, documents or 
+records; 
+- Lying; 
+- Insubordination or refusal to comply with directives; 
+- Failing to adequately perform job responsibilities; 
+- Excessive or unexcused absenteeism or tardiness; 
+- Disclosing confidential or proprietary company information without permission; 
+- Illegal or violent activity; 
+- Falsifying injury reports or reasons for leave; 
+- Possessing unauthorized weapons on premises; 
+- Disregard for safety and security procedures; 
+- Disparaging or disrespecting supervisors and/or co-workers; and 
+- Any other action or conduct that is inconsistent with company policies, 
+procedures, standards or expectations. 
+ 
+This list exhibits the types of actions or events that are subject to disciplinary action. It is 
+not intended to indicate every act that could lead to disciplinary action. The company 
+reserves the right to determine the severity and extent of any disciplinary action based 
+on the circumstances of each case.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 28 ---
+24 
+8.2 Procedures 
+ 
+Disciplinary action is any one of a number of options used to correct unacceptable 
+behavior or actions. Discipline may take the form of oral warnings, written warnings, 
+probation, suspension, demotion, discharge, removal or some other disciplinary action, in 
+no particular order. The course of action will be determined by the company at its sole 
+discretion as it deems appropriate.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.3 Termination 
+ 
+Employment with the company is on an at-will basis and may be terminated 
+voluntarily or involuntarily at any time. 
+ 
+Upon termination, an employee is required: 
+- To continue to work until the last scheduled day of employment; 
+- To turn in all reports and paperwork required to be completed by the employee 
+when due and no later than the last day of work; 
+- To return all files, documents, equipment, keys, access cards, software or other 
+property belonging to the company that are in the employee’s possession, 
+custody or control, and turn in all passwords to his/her supervisor; 
+- To participate in an exit interview as requested by [enter authorized person’s 
+name].   
+ 
+If your company uses a progressive discipline system, placing that policy in a handbook can be binding. 
+You are guaranteeing to your employees that the company follows a set method for discipline each and 
+every time. Companies could become liable for not adhering to their own policies in every situation. In 
+addition, progressive discipline polices can sometimes defeat the purposes of an at -will employment 
+relationship. When drafting your discipline section, do not “over explain” the policy or include steps that 
+you might not take every time. If you do plan to include a progressive discipline policy in your 
+handbook, have an employment attorney review your submission.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 29 ---
+25 
+Section 9 – Employee Health and Safety 
+ 
+9.1 Workplace Safety 
+ 
+The company takes every reasonable precaution to ensure that employees have a safe 
+working environment. Safety measures and rules are in place for the protection of all 
+employees. Ultimately, it is the responsibility of each employee to help prevent 
+accidents. To ensure the continuation of a safe workplace, all employees should review 
+and understand all provisions of the company’s workplace safety policy. Employees 
+should use all safety and protective equipment provided to them, and maintain work 
+areas in a safe and orderly manner, free from hazardous conditions. Employees who 
+observe an unsafe practice or condition should report it to a supervisor or [enter 
+alternate name] immediately. Employees are prohibited from making threats against 
+anyone in connection with his/her work or engaging in violent activities while in the 
+employ of the company. Any questions regarding safety and safe practices should be 
+directed to [enter authorized person’s name]. 
+ 
+In the event of an accident, employees must notify a supervisor immediately. Report 
+every injury, regardless of how minor, to a supervisor immediately. Physical discomfort 
+caused by repetitive tasks must also be reported. For more information about on the job 
+injuries, refer to the workers’ compensation section of this handbook. 
+ 
+Employees should recognize any potential fire hazards and be aware of fire escape 
+routes and fire drills. Do not block fire exits, tamper with fire extinguishers or otherwise 
+create fire hazards.  
+ 
+9.2 Workplace Security 
+ 
+Employees must be alert and aware of any potential dangers to themselves or their 
+coworkers. Take every precaution to ensure that your surroundings are safe and secure. 
+Guard personal belongings and company property. Visitors should be escorted at all 
+times. Report any suspicious activity to a supervisor immediately.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 30 ---
+26 
+9.3 Emergency Procedures 
+ 
+In the event of an emergency, dial 911 immediately. If you hear a fire alarm or other 
+emergency alert system, proceed quickly and calmly to the nearest exit. Once the 
+building has been evacuated, only a supervisor may authorize employees to reenter.  
+Many companies have separate safety and health handbooks or policies that describe the safety 
+and health programs that must be implemented to comply with various Occupational Safety and 
+Health Administration (“OSHA”) standards and regulations. If your company must comply with 
+certain OSHA standards, then you must have separate written programs describing how you 
+comply. Please consult OSHA’s website (www.osha.gov) or an attorney for additional information 
+on safety and health programs your company may be required to have. Include the name of the 
+accident contact person and the location of safety posters that your company is required to post. If 
+you have company vehicles, include a section on accident reporting.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 31 ---
+27 
+Section 10 - Employee Benefits 
+ 
+This handbook contains descriptions of some of our current employee benefits. Many of 
+the company’s benefit plans are described in more formal plan documents available 
+from [enter authorized person’s name]. In the event of any inconsistencies between this 
+handbook or any other oral or written description of benefits and a formal plan 
+document, the formal plan document will govern. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.1 Health Insurance 
+ 
+The company makes group health benefits available to eligible employees and their 
+family members. Eligible employees are full-time employees who have worked for 
+[enter time] months. Part-time employees are eligible if they work at least [enter hours] 
+hours per week and have been employed for [enter time] months.  
+ 
+Health benefits are paid in part by the company. The remainder of the costs are the 
+employee’s responsibility. Employees can receive details about benefits provided, 
+contribution rates and eligibility from [enter authorized person’s name].   
+ 
+  
+10.2 Retirement Plans 
+ 
+The company participates in a 401(k) plan so that employees may save a portion of their 
+earnings for retirement. Regular employees who have worked at least [enter hours] for 
+[enter months] are eligible to participate. Employees may elect to make regular 
+contributions to the 401(k) plan up to the maximum amount allowed by federal law. 
+ 
+Contact [enter authorized person’s name] for detailed information regarding eligibility, 
+employee contributions, vesting period or employer contributions. More information 
+can also be found in the plan summary description, which is available from [enter 
+benefits coordinator name]. If there are any inconsistencies between this handbook and 
+any of the Summary Plan Descriptions, the Summary Plan Descriptions shall govern. The 
+Even with the disclaimer language provided above, it is important to conform the benefit plans 
+described in the handbook with the company’s formal plan documents. It is not necessary to provide 
+detailed information about the benefit plans in the handbook, but it may be helpful to provide general 
+information on the types of benefits provided and where employees can find more detailed information 
+on the benefits provided.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 32 ---
+28 
+company reserves the right to modify or terminate any or all of its retirement benefits or 
+to change benefit providers at any time with or without notice. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.3 Workers’ Compensation 
+ 
+As required by law, the company provides workers’ compensation benefits for the 
+protection of employees with work-related injuries or illnesses.  
+ 
+Workers’ compensation insurance provides coverage to employees who experience job-
+related injuries or illnesses. If an employee is injured or becomes ill as a result of his/her 
+job, it is the employee’s responsibility to immediately notify a supervisor of their injury 
+in order to receive benefits. Report every illness or injury to a supervisor, regardless of 
+how minor it appears. The company will advise the employee of the procedure for 
+submitting a workers’ compensation claim. If necessary, injured employees will be 
+referred to a medical care facility. Employees should retain all paperwork provided to 
+them by the medical facility. Failure to report a work-related illness or injury promptly 
+could result in denial of benefits. An employee’s report should contain as many details as 
+possible, including the date, time, description of the illness or injury, and the names of 
+any witnesses. 
+ 
+A separate insurance company administers the workers’ compensation insurance. 
+Representatives of this company may contact injured employees regarding their 
+benefits under the plan. Additional information regarding workers’ compensation is 
+available from [enter authorized person’s name].  
+ 
+ 
+ 
+ 
+ 
+ 
+10.4 Disability Coverage 
+ 
+Disability insurance provides partial paycheck reimbursement for times of serious 
+illness or injury which leads to total disability. Total disability is defined as the inability 
+This section should briefly describe the company’s offered benefits. A detailed account of the plan’s 
+characteristics is not necessary. Simply include a basic description of the benefits offered, the eligibility 
+requirements and a contact name. To provide more information about a specific plan, create a benefits 
+handbook or ask the plan administrator for an informational booklet to present to eligible employees.  
+ 
+ 
+Workers’ compensation can be required and the laws vary from state to state. Check with your state 
+workers’ compensation agency to determine if you are required to carry workers’ compensation 
+insurance.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 33 ---
+29 
+to perform any job function as a result of the injury or illness. Employees who have 
+worked for [enter number] months are eligible for disability insurance coverage. To 
+qualify for benefits, the period of total disability must exceed [enter number] days. 
+Coverage extends for [enter number] days of disability. Employees must exhaust any 
+sick leave benefits before being eligible for disability leave coverage.  
+ 
+Disability benefits are calculated as [enter percentage] of an employee’s base salary. 
+Any payments received from workers’ compensation or state disability will result in an 
+equal decrease in disability benefits. Disability benefits are subject to employment 
+withholding provisions.  
+ 
+The employee is responsible for notifying a supervisor of their disability, expected date 
+of return, and the name of their attending physician. The company may request that an 
+independent medical provider perform an examination. In addition, the company may 
+require a medical release form prior to returning to work. For more information 
+regarding disability benefits, contact [enter authorized person’s name]. If there are any 
+inconsistencies between this handbook and any of the Summary Plan Descriptions, the 
+Summary Plan Descriptions shall govern. The company reserves the right to modify or 
+terminate any or all of the benefits or to change benefit providers at any time with or 
+without notice. 
+ 
+Disability insurance is generally not required, but if your company provides disability benefits, include a 
+brief description in your handbook. Companies with more than 15 employees are required to comply 
+with the Americans with Disabilities Act, including providing reasonable accommodations for employees 
+who have a disability. For more information about the ADA, visit the ADA home page at 
+http://www.ada.gov.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 34 ---
+30 
+Section 11 – Termination Policies 
+ 
+11.1 Voluntary Termination  
+ 
+The company recognizes that personal situations may arise which require a voluntary 
+termination of employment. Should this occur, the company requests that the employee 
+provide two weeks advance notice in writing. This request does not alter an employee’s 
+at-will relationship with the company.  
+ 
+All rights and privileges of employment with the company terminate upon the date of 
+separation. As further discussed in Section 8.3, terminating employees are required to 
+return all company property assigned to them. Failure to do so may result in the 
+withholding of their final paycheck.  
+ 
+11.2 Final Paycheck 
+ 
+Employees who terminate employment with the company will be given their final 
+paycheck [enter time required by state law]. Should the employee be unable to 
+personally retrieve their paycheck, it will be mailed to the address on file.  
+ 
+ 
+  
+ 
+ 
+11.3 COBRA Continuation of Health Benefits 
+ 
+Under the federal Consolidated Omnibus Budget Reconciliation Act (COBRA), a 
+qualified employee who terminates employment (for reasons other than gross 
+misconduct on the employee’s part) or who loses health and dental coverage due to a 
+reduction in work hours may temporarily continue group health and dental coverage 
+for him/herself, his/her spouse, and any covered dependent children at the full 
+premium rate plus administrative fees. That eligibility normally extends for a period of 
+eighteen (18) months from the qualifying date. For more information regarding COBRA 
+health insurance benefits, see [enter authorized person’s name]. 
+ 
+ 
+ 
+ 
+ 
+Most states require that a terminated employee receive their paycheck within a certain number of days 
+after termination. Consult with an employment attorney to determine what your state requires.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 35 ---
+31 
+ 
+11.4 Exit Interview 
+ 
+The company may request an exit interview upon notice of termination. The purpose of 
+the exit interview is to complete necessary forms, collect company property and discuss 
+employment experiences with the company.
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 36 ---
+32 
+Acknowledgement of Receipt for Employee Handbook 
+(Employee Copy – Keep with handbook) 
+ 
+ 
+I acknowledge that I have received a copy of the Employee Handbook. I understand 
+that I am responsible for reading the information contained in the Handbook.  
+ 
+I understand that the Handbook is intended to provide me with a general overview 
+of the company’s policies and procedures. I acknowledge that nothing in this 
+Handbook is to be interpreted as a contract, expressed or implied, or an inducement 
+for employment, nor does it guarantee my employment for any period of time.  
+ 
+I understand and accept that my employment with the company is at-will. I have the 
+right to resign at any time with or without cause, just as the company may terminate 
+my employment at any time with or without cause or notice, subject to applicable 
+laws. I understand that my at-will employment cannot be altered by any verbal 
+statement or alleged verbal agreement made by company personnel. It can only be 
+changed by a legally binding, written contract covering employment status.   
+ 
+I acknowledge that the company may revise, suspend, revoke, terminate, change or 
+remove, prospectively or retroactively, any of the policies or procedures outlined in 
+this Handbook or elsewhere, in whole or in part, with or without notice at any time, 
+at the company’s sole discretion.  
+ 
+ 
+_________________________________ 
+(Signature of Employee) 
+ 
+__________ 
+(Date) 
+ 
+_________________________________ 
+(Company Representative)
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 37 ---
+33 
+Acknowledgement of Receipt for Employee Handbook 
+(Employer Copy – Detach and retain for records) 
+ 
+ 
+I acknowledge that I have received a copy of the Employee Handbook. I understand 
+that I am responsible for reading the information contained in the Handbook.  
+ 
+I understand that the Handbook is intended to provide me with a general overview 
+of the company’s policies and procedures. I acknowledge that nothing in this 
+Handbook is to be interpreted as a contract, expressed or implied, or an inducement 
+for employment, nor does it guarantee my employment for any period of time.  
+ 
+I understand and accept that my employment with the company is at-will. I have the 
+right to resign at any time with or without cause, just as the company may terminate 
+my employment at any time with or without cause or notice, subject to applicable 
+laws. I understand my at-will employment cannot be altered by any verbal 
+statement or alleged verbal agreement made by company personnel. It can only be 
+changed by a legally binding, written contract covering employment status.    
+ 
+I acknowledge that the company may revise, suspend, revoke, terminate, change or 
+remove, prospectively or retroactively, any of the policies or procedures of the 
+company, whether outlined in this Handbook or elsewhere, in whole or in part, with 
+or without notice at any time, at the company’s sole discretion.  
+ 
+ 
+_________________________________ 
+(Signature of Employee) 
+ 
+__________ 
+(Date) 
+ 
+_________________________________ 
+(Company Representative)
+
+--- DOCUMENT: employee-handbook-01.pdf | PAGE: 38 ---
+34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Updated August 2012 
+Companies may also consider instituting some of the following policies, depending on the nature of the 
+company’s business and workforce: 
+ 
+- Confidentiality 
+- Conflict of Interest 
+- Intellectual Property Ownership 
+- Outside Employment 
+- Additional Benefits, such as Training or Education Reimbursement 
+- Expense Reporting 
+- Use of Company Vehicles
+
+================================================================================
+DOCUMENT: security-policy-03.pdf
+TOTAL PAGES: 5
+================================================================================
+
+--- DOCUMENT: security-policy-03.pdf | PAGE: 1 ---
+Practice Policy 
+Data Protection, Confidentiality and Information Security Policy Template, Ethical Practice,  
+SDCEP Practice Support Manual, November 2010 
+Page 1 of 5 
+Data Protection, Confidentiality and Information Security Policy 
+Policy Statement 
+The [insert practice name]  processes p ersonal data that relate to employees and patients and is 
+therefore required by law to comply with the Data Protection Act 1998 (DPA) , which protects the 
+privacy of individual personal data and ensures that they are processed fairly and lawfully . The 
+Practice is committed to ensuring that it complies with the DPA and applies ethical principles to all 
+aspects of its work to protect the interests of employees and patients and maintain the confidentiality  
+and security of any personal data held  in any form  by the practice. To do this, the [insert practice 
+name] will comply with the eight principles in the DPA. In summary, these state that personal data  
+shall be: 
+• fairly and lawfully processed; 
+• processed for limited purposes (i.e. obtained only for specified and lawful purposes and 
+further processed only in a compatible manner); 
+• adequate, relevant and not excessive; 
+• accurate and up to date; 
+• not kept for longer than is necessary; 
+• processed in line with the individual’s rights; 
+• secure; 
+• not transferred to countries outside the European Economic area without adequate 
+protection. 
+A shortened ‘Data Protection Policy for Patients’ has been developed for patients.  [amend, as 
+appropriate] 
+Responsibilities 
+This Data Protection, Confidentiality and Information Security Policy applies to all practice employees 
+and others who have legitimate rights to access and use the practice’s information systems.  
+Compliance with the DPA and this policy is the responsibility of all practice employees and everyone 
+who has access to practice records. A breach of this policy, whether deliberate or through negligence, 
+could lead to disciplinary action being taken and possible investigation by the General Dental Council. 
+A breach of the DPA could also lead to criminal prosecution.  
+The following table lists key responsibilities among the dental team [amend table, as appropriate]. 
+Dental Team Member  Responsibility 
+Sarah Granger  
+(Practice Manager) 
+Data Protection , Confidentiality and  Information Security policy ; deals 
+with subject access requests made under the DPA and requests made 
+under the Freedom of Information Act (Scotland) 2002; training of staff 
+regarding data protection and confidentiality 
+Charlie Coombs  Data controller (i.e. principal dentist who ‘owns’ a patient list) 
+John Smith Data controller (i.e. associate dentist who ‘owns’ a patient list) 
+Ann Bennett Data controller (i.e. associate dentist who ‘owns’ a patient list) 
+All staff Compliance with the DPA  and this Data Protection, Confidentiality and 
+Information Security policy 
+If you have any questions or comments about processing personal data or this policy, please contact 
+the Practice Manager [amend, as appropriate].
+
+--- DOCUMENT: security-policy-03.pdf | PAGE: 2 ---
+Practice Policy 
+Data Protection, Confidentiality and Information Security Policy Template, Ethical Practice,  
+SDCEP Practice Support Manual, November 2010 
+Page 2 of 5 
+ 
+Definition of Personal Data Covered Under the DPA 
+The DPA covers all personal data, regardless of the format , that are stored in a ‘relevant filing 
+system’. A relevant filing system means any system where information can be found relatively easily, 
+even if it is not by a personalised index or key.  In addition, information recorded with the intention 
+that it will be put in a relevant filing system or held on computer is covered. 
+As an employer and to provide effective care for patients and provide care within the NHS system, 
+the Practice processes personal data of employees and patients. Personal data means practically any 
+information about, or correspondence relating to, a named individual. It includes both facts (e.g. 
+treatment a patient has had) and opinions (e.g. any concerns the patient or dental team  might have 
+about the patient’s dental health), including: 
+• personal information and contact details, including the patient’s name, address and date of 
+birth; 
+• dental, social and medical histories (e.g. past or current medical conditions, current 
+medication, the name of the patient’s GP, special needs); 
+• results of the examination of the patient’s mouth and oral health, including x -rays and 
+clinical photographs; 
+• information about appointments; 
+• any treatments and their costs; 
+• any proposed care, including advice given to the patient and referrals the patient might 
+need; 
+• any concerns that the patient or dental team might have; 
+• details of the patient’s consent for specific procedures; 
+• correspondence with other healthcare workers that relates to the patient’s care. 
+ 
+Procedures for Ensuring Compliance with the DPA and the Confidentiality 
+and Security of Personal Data 
+All Staff [amend, as appropriate] 
+To maintain a good patient–dental team relationship, it is essential that patients feel they can provide 
+personal information to dental team members with the knowledge that this information will be kept 
+securely and not shared unlawfully.  It is also important that patients are able to provide, in 
+confidence, full details of their medical, social and dental histories to facilitate safe and effective care. 
+To achieve this, all staff must follow the procedures listed below. 
+➢ Comply with the 8 principles outlined in the DPA  and the General Dental Council principles set out 
+in the ‘ Standards for Dental Professionals guidance ’, and in ‘Principles of Patient Confidentiality ‘ 
+and ‘Principles of Patient Consent’. 
+➢ Undergo training in processing personal data and confidentiality. 
+➢ Keep any personal data or confidential data that they hold, whether in elect ronic or paper format, 
+securely, which includes: 
+• storing paper files with personal data in lockable filing cabinets that are locked when 
+authorised staff are not present to monitor access; 
+• storing electronic files containing personal data on password-protected computer systems; 
+• ‘screen-locking’ unattended computers; 
+• not sharing computer passwords with unauthorised people , not writing down passwords 
+and not keeping passwords on or near their computer;
+
+--- DOCUMENT: security-policy-03.pdf | PAGE: 3 ---
+Practice Policy 
+Data Protection, Confidentiality and Information Security Policy Template, Ethical Practice,  
+SDCEP Practice Support Manual, November 2010 
+Page 3 of 5 
+• not forwarding emails containing personal data to internet email accounts as these are not 
+secure; 
+• holding personal data on laptops only where there is a clear business necessity  and 
+permission is sought from the Practice Manager  (if there is a necessity , ensure it is fully 
+encrypted); 
+• avoiding carrying personal data on removable media (e.g. memory sticks or CD-roms); 
+• not using unlicensed software on Practice computers; 
+• ensuring windows and doors are secured if you are the last to leave the practice. 
+➢ Practice good record-keeping, and ensure records are:  
+• accurate; 
+• dated; 
+• contemporaneous; 
+• comprehensive; 
+• secure; 
+• legible and written in language that can be read and understood by others, and is not 
+derogatory. 
+➢ Maintain the confidentiality of any personal data by, for example: 
+• ensuring that personal information is not disclosed either orally or in writing, accidentally 
+or otherwise, to any unauthorised third party  (e.g. avoid working on personal data such as 
+application forms on public transport, do not discuss identifiable information about patients 
+with anyone outside the practice, including friends, family and schools, or leave messages 
+about a patient’s care with a n unauthorised third party or on an answering machine)  (NB: 
+this also applies after termination of employment); 
+• respecting patient privacy for discussions of a sensitive nature (e.g. discussion of medical 
+information, payment, or asking patients for proof of exemption status); 
+• using personal data only for the purposes for which they are authorised in the relevan t 
+Data Protection registration. 
+➢ Ensure patients know what information is to be shared, why it is being shared and the likely 
+consequences of sharing (or not sharing) the information, and give patients the opportunity to 
+withhold permission to share their information. 
+➢ Share personal data only on a ‘need to know’ basis and following consent from the patient ; for 
+example: 
+• to another health professional for the provision of effective care and/or treatment; 
+• to ensure the provision of care under the NHS (e.g. payment claims, information for health 
+boards). 
+➢ Check that any personal information that you provide in connection with your employment is 
+accurate and up to date, and inform the Practice Manager of any changes to this information. 
+➢ Inform the Practice Manager, who is responsible for ensuring compliance with the DPA  and this 
+policy, of any suspected or actual breach of the DPA or this policy. 
+Data Controllers 
+Data controllers are those who hold personal records  (e.g. dentists who are the ‘owner’ of their own 
+patient list). All data controllers must follow the procedures detailed above for staff, and the 
+procedures listed below. 
+[Exactly who is required to register with the UK Information Commissioner depends on the practice 
+set up. Please see advice in ‘Ethical Practice’, and amend this section as appropriate.] 
+➢ Register with the UK Information Commissioner. 
+➢ Keep the details of the registration up to date and renew this registration annually.
+
+--- DOCUMENT: security-policy-03.pdf | PAGE: 4 ---
+Practice Policy 
+Data Protection, Confidentiality and Information Security Policy Template, Ethical Practice,  
+SDCEP Practice Support Manual, November 2010 
+Page 4 of 5 
+General Practices [amend, as appropriate] 
+➢ All staff contracts and agreements include a clause regarding confidentiality of personal data . 
+➢ Keys for lockable storage cabinets are held only by dental team members who require regular 
+access to the information they contain. Keys are stored in a safe place/secure key cabinet [amend, 
+as appropriate]. 
+➢ Practice computers have a full audit trail facility to prevent deletion or overwriting of data.  
+➢ Each computer is fitted with anti-virus software. 
+➢ Daily back-ups of the Practice’s electronic records are made, and held in a fireproof safe.  
+➢ Weekly back-ups of the Practice’s electronic records are made and held off-site. 
+➢ Back-ups are tested to ensure data can be retrieved in a useable format.  
+➢ Adult patient records are kept for at least 11 years; child patient records are kept for at least 11 
+years or until the patient is 25 years old, whichever is longer. 
+➢ Personal data are reviewed, updated and deleted in a confidential  and secure  manner when no 
+longer required.  
+➢ Windows are fitted with locks and the practice is fitted with an intruder alarm that is set each 
+night to increase security. 
+➢ A continuity plan that includes procedures for protect ing and restoring personal data  is in place in 
+the event of a major incident. 
+ 
+Sharing Personal Information 
+To provide the patient with appropriate care, we might need to share personal data with: 
+• another dentist or another health professional who is caring for the patient; 
+• the patient’s GP; 
+• a laboratory; 
+• NHS payment authorities; 
+• the Inland Revenue; 
+• the Benefits Agency, if the patient is claiming exemption or remission from NHS charges; 
+• a private dental scheme, if the patient is a member. 
+In these cases, only the minimum information required will be shared.  
+ 
+Disclosure Without Consent 
+Exceptional circumstances might override the duty to maintain confidentiality. Where possible, we will 
+inform the patient of requests to share personal information. The decision to disclose information 
+must only be taken by senior staff. Examples include: 
+• situations where there is a serious public health risk or risk of harm to other individuals;  
+• when information is required by the police to prevent or detect crime or to apprehend or 
+prosecute offenders (if not providing the information would prejudice these purposes); 
+• in response to a court order; 
+• to enable a dentist to pursue a legal claim against a patient. 
+[Insert relevant name (s)] is responsible for making the decision regarding whether personal data 
+should be disclosed.
+
+--- DOCUMENT: security-policy-03.pdf | PAGE: 5 ---
+Practice Policy 
+Data Protection, Confidentiality and Information Security Policy Template, Ethical Practice,  
+SDCEP Practice Support Manual, November 2010 
+Page 5 of 5 
+Subject Access Requests 
+Individuals have a right under the DPA to have a copy of the information held about them on 
+computer and in manual filing systems. This is known as the right of subject access. Parents also 
+have rights to access their children’s records if it is in the child’s interest . The ‘data controller’ (i.e. the 
+dentist) must make a judgement if a child or parent requests records  (The DPA allows a young 
+person of 12 years or more in Scotland, with sufficient capacity and maturity, to exercise their rights 
+under the Act). A solicitor can request access with the consent of his client. 
+A data protection policy that outlines the personal data that are processed and the manner in which 
+the data are processed is available for patients. 
+The Practice Manager [amend, as appropriate] deals with subject access requests and  will respond to 
+requests from patients or employees within 40 days of receipt of the request. A fee of £10 will be 
+charged for this [amend, as appropriate]. 
+ 
+The following staff have read and understood this policy [include all team members]. 
+Dental Team 
+Member  
+Position Signature Date

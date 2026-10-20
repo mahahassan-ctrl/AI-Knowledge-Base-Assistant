@@ -1,0 +1,7 @@
+strategy,embedding_model,chunk_count,questions,hits_at_3,misses_at_3,recall_at_3_percent
+recursive,minilm,240,40,36,4,90.0
+recursive,mpnet,240,40,36,4,90.0
+fixed,minilm,47,40,35,5,87.5
+fixed,mpnet,47,40,30,10,75.0
+structure,minilm,240,40,36,4,90.0
+structure,mpnet,240,40,36,4,90.0
